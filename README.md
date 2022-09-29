@@ -25,4 +25,5 @@ Alertas para informar el inicio de sesión el cierre de sesión, reserva exitosa
 
 Aquí pueden ver una demo del funcionamiento de la aplicación.
 
-![https://drive.google.com/drive/u/0/folders/1MuLVqLc6NdrRd2-ogoZ10vx_pt5eOIeA](https://drive.google.com/drive/folders/1MuLVqLc6NdrRd2-ogoZ10vx_pt5eOIeA?usp=sharing) 
+
+https://user-images.githubusercontent.com/93203391/192941844-aadaac0d-0386-4c3b-8d47-68ba88f8b2b7.mp4
