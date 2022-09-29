@@ -8,6 +8,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
+# Demo del proyecto
+
+Aquí pueden ver una demo del funcionamiento de la aplicación.
+
+
+https://user-images.githubusercontent.com/93203391/192941844-aadaac0d-0386-4c3b-8d47-68ba88f8b2b7.mp4
 
 # App Your Keys!
 
@@ -21,9 +27,4 @@ Página de reservas a la cual solo se puede acceder estando logeado, en la pági
 Alertas para informar el inicio de sesión el cierre de sesión, reserva exitosa y reserva fallida.
 
 
-# Demo del proyecto
 
-Aquí pueden ver una demo del funcionamiento de la aplicación.
-
-
-https://user-images.githubusercontent.com/93203391/192941844-aadaac0d-0386-4c3b-8d47-68ba88f8b2b7.mp4
