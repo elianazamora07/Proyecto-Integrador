@@ -1,12 +1,4 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 # Demo del proyecto
 
@@ -26,5 +18,14 @@ Página de reservas a la cual solo se puede acceder estando logeado, en la pági
 
 Alertas para informar el inicio de sesión el cierre de sesión, reserva exitosa y reserva fallida.
 
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
 
 
