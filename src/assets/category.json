@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Compactor",
+    "value": "compactos"
+  },
+  {
+    "label": "Intermedio",
+    "value": "intermedio"
+  },
+  {
+    "label": "Camionetas",
+    "value": "camionetas"
+  },
+  {
+    "label": "Premium",
+    "value": "premium"
+  }
+]
